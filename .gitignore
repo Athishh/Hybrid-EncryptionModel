@@ -12,6 +12,7 @@
 
 .idea/
 .target/
+.gitattributes
 
 # Package Files #
 *.jar
